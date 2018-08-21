@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 755c0d3dee610e24eae4ee9c9b19c65b
+timeCreated: 1507220069
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cross Town Personal Use
+  fontNames:
+  - Cross Town Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

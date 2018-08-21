@@ -1,0 +1,8 @@
+add
+
+1. add player's hurt sound(done)
+2. issue of player animator after going to back to main menu
+3. connect controller with xInput
+4. optional - directional camera
+5. solve the issue of windfire particle effect
+6. Add number of enemies killed in GUI (done)

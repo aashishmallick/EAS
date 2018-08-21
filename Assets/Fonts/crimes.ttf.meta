@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 48665a17342b59b47979429673d0f6b3
+timeCreated: 1507220265
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: True Crimes
+  fontNames:
+  - True Crimes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
