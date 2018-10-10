@@ -2,6 +2,9 @@
 Genre - Third person action game.
 Theme - Girl(Player) fights with NPCs in three different scenes with different fighting actions.
 
+# How to Play
+Run File named as "eos11.exe" and select the suitable display setting and controls settings.
+
 # Controls
 Arrows Keys - To move in different directions.
 TouchPad - To rotate the player.
