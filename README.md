@@ -1,4 +1,4 @@
-# EOS (Echoes and Shadows)
+# EAS (Echoes and Shadows)
 Genre - Third person action game.
 Theme - Girl(Player) fights with NPCs in three different scenes with different fighting actions.
 
