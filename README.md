@@ -12,3 +12,5 @@ Left mouse button - Double Chop Attack
 Right mouse button - Spin Attack
 V - Stab Attack
 Esc - Pause the game.
+
+Go gaming!
